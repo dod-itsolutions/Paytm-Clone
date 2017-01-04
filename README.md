@@ -1,6 +1,6 @@
 <h2>Paytm Clone Script</h2>
 
-Recharge =>Shopping =>Bus =>Hotel => Flight =>Cab =>Movie
+<p style="color:#FF0000";>Recharge =>Shopping =>Bus =>Hotel => Flight =>Cab =>Movie</p>
 
 A popular multivendor website for you, compressing of recharges like Mobile recharge, DTH, Data card, Electricity, Insurance…etc. 
 Also provides bookings such as bus bookings, hotel bookings, Flight bookings, Cab bookings and Movie bookings. You can also relish 
