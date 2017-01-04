@@ -16,21 +16,21 @@ We have skilled developers and designers, with more than 5+ years of experience,
 ♦ QR Code Scanner<br>
 ♦ Android App<br>
 ♦ IOS App<br>
-♦ Payment Gateway
-♦ Email Invoice Generation
-♦ SMS Invoice Generation
-♦ Web Front Invoice Generation
-♦ Passbook Entry
-♦ Pay through QR Code
-♦ Pay to Mobile Number
-♦ Payment Send/Receive Request
-♦ Add Beneficiary details
-♦ Peer to Peer Payment System
-♦ Recharge Portal
-♦ Bus Portal
-♦ Flight Portal
-♦ E-commerce
-♦ Withdrawal to bank
-♦ Coupon Code Generation
-♦ Weekly/Monthly/Yearly Reports
-♦ Online Tracking
+♦ Payment Gateway<br>
+♦ Email Invoice Generation<br>
+♦ SMS Invoice Generation<br>
+♦ Web Front Invoice Generation<br>
+♦ Passbook Entry<br>
+♦ Pay through QR Code<br>
+♦ Pay to Mobile Number<br>
+♦ Payment Send/Receive Request<br>
+♦ Add Beneficiary details<br>
+♦ Peer to Peer Payment System<br>
+♦ Recharge Portal<br>
+♦ Bus Portal<br>
+♦ Flight Portal<br>
+♦ E-commerce<br>
+♦ Withdrawal to bank<br>
+♦ Coupon Code Generation<br>
+♦ Weekly/Monthly/Yearly Reports<br>
+♦ Online Tracking<br>
