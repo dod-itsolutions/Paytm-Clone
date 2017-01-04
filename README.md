@@ -11,26 +11,26 @@ We have skilled developers and designers, with more than 5+ years of experience,
 
 <h2> Features </h2>
 
-○ Wallet to Wallet Transfer
-○ Wallet to Bank Accont Transfer
-○ QR Code Scanner
-○ Android App
-○ IOS App
-○ Payment Gateway
-○ Email Invoice Generation
-○ SMS Invoice Generation
-○ Web Front Invoice Generation
-○ Passbook Entry
-○ Pay through QR Code
-○ Pay to Mobile Number
-○ Payment Send/Receive Request
-○ Add Beneficiary details
-○ Peer to Peer Payment System
-○ Recharge Portal
-○ Bus Portal
-○ Flight Portal
-○ E-commerce
-○ Withdrawal to bank
-○ Coupon Code Generation
-○ Weekly/Monthly/Yearly Reports
-○ Online Tracking
+♦ Wallet to Wallet Transfer
+♦ Wallet to Bank Accont Transfer
+♦ QR Code Scanner
+♦ Android App
+♦ IOS App
+♦ Payment Gateway
+♦ Email Invoice Generation
+♦ SMS Invoice Generation
+♦ Web Front Invoice Generation
+♦ Passbook Entry
+♦ Pay through QR Code
+♦ Pay to Mobile Number
+♦ Payment Send/Receive Request
+♦ Add Beneficiary details
+♦ Peer to Peer Payment System
+♦ Recharge Portal
+♦ Bus Portal
+♦ Flight Portal
+♦ E-commerce
+♦ Withdrawal to bank
+♦ Coupon Code Generation
+♦ Weekly/Monthly/Yearly Reports
+♦ Online Tracking
