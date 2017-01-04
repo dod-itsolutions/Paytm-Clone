@@ -1,4 +1,4 @@
-Paytm Clone Script
+<h2>Paytm Clone Script</h2>
 
 Recharge =>Shopping =>Bus =>Hotel => Flight =>Cab =>Movie
 
