@@ -11,11 +11,11 @@ We have skilled developers and designers, with more than 5+ years of experience,
 
 <h2> Features </h2>
 
-♦ Wallet to Wallet Transfer
-♦ Wallet to Bank Accont Transfer
-♦ QR Code Scanner
-♦ Android App
-♦ IOS App
+♦ Wallet to Wallet Transfer<br>
+♦ Wallet to Bank Accont Transfer<br>
+♦ QR Code Scanner<br>
+♦ Android App<br>
+♦ IOS App<br>
 ♦ Payment Gateway
 ♦ Email Invoice Generation
 ♦ SMS Invoice Generation
