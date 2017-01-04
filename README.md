@@ -1,4 +1,5 @@
 Paytm Clone Script
+
 Recharge =>Shopping =>Bus =>Hotel => Flight =>Cab =>Movie
 
 A popular multivendor website for you, compressing of recharges like Mobile recharge, DTH, Data card, Electricity, Insurance…etc. 
