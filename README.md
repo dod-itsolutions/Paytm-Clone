@@ -9,16 +9,6 @@ Scanner and generation management
 
 We have skilled developers and designers, with more than 5+ years of experience, who is ready to corporate to client ideas and push their business to the peak. Amazing mob app designs with user-friendly interface provided.
 
-<h2> Features </h2>
-RECHARGE FEATURES
 
-GENERAL FEATURES
 
-• User Friendly Site                                              
-• CAPTCHA for Security
-• SMS Alert                                                            
-• Templates Using HTML
-• Modern & Unique design                                
-• Advanced User and Admin Panel
-• Customer Support Management                  
-• Content Management System (CMS)
+
